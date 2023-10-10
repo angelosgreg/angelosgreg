@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @angelosgreg
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning new coding languages
-- 💞️ I’m looking to collaborate on interesting projects with people that we share the same passion and work ethics :)
-- 📫 How to reach me : email: angelosgreg13@gmail.com or at [github](https://github.com/angelosgreg)
-
-Love travelling around the world , meeting new cultures and opportunities. :D
+Hi there, 
+My name is Angelos Grigorakis and i am a junior Full-stack Developer
+Love travelling around the world , meeting new cultures and opportunities. 
+Coding , coding , coding :)
 
 <!---
 angelosgreg/angelosgreg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
