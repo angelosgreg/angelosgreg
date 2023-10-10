@@ -9,6 +9,5 @@ I'm a Full-Stack Developer based in Cologne, Germany.
 📫 Reach me asap: angelosgreg13@gmail.com
 💜 Interests: huge Queen fan, greek food, ouzo
 😄 Passionate about accessibility and committed to a web that works for everyone
-Find me around the web 🌎:
 💼 Connecting and sharing professional updates on LinkedIn
 🎧 Listening to all my favorite jams on Spotify
