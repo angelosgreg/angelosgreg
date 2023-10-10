@@ -1,9 +1,14 @@
-Hi there, 
-My name is Angelos Grigorakis and i am a junior Full-stack Developer
-Love travelling around the world , meeting new cultures and opportunities. 
-Coding , coding , coding :)
-
-<!---
-angelosgreg/angelosgreg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Angelos 👋
+I'm a Full-Stack Developer based in Cologne, Germany.
+🏢 I'm currently update my old projects
+⚙️ I use daily: .rb, .js, .erb,  .html, .scss, .png, .json, .yml, .sql
+🌍 I support and volunteer with: Code Nation, Donate a Code, AllStar Code
+💅 Active on coding , active in knowledge , active in life
+🌱 Learning more about and studying: software engineering
+💬 Ping me about: full-stack dev, travelling and music
+📫 Reach me asap: angelosgreg13@gmail.com
+💜 Interests: huge Queen fan, greek food, ouzo
+😄 Passionate about accessibility and committed to a web that works for everyone
+Find me around the web 🌎:
+💼 Connecting and sharing professional updates on LinkedIn
+🎧 Listening to all my favorite jams on Spotify
